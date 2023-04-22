@@ -2,9 +2,10 @@
 title: "My First Note"
 date: 2023-04-22T22:26:42+05:30
 draft: False
-featured_image: "/writing-pen.jpg"
-featured_image_alt : "A writing notes"
-featured_image_caption : "Photo by [Jan Kahánek](https://unsplash.com/@honza_kahanek)"
+cover:
+    image: "/images/writing-pen.jpg"
+# featured_image_alt : "A writing notes"
+# featured_image_caption : "Photo by [Jan Kahánek](https://unsplash.com/@honza_kahanek)"
 ---
 
 ![](/images/writing-pen.jpg)

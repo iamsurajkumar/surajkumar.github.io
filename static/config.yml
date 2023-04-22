@@ -3,8 +3,6 @@ title: Suraj Kumar
 paginate: 20
 theme: PaperMod
 
-assetsDir: "static" # so that the theme picks up the images from static folder properly
-
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
@@ -16,23 +14,20 @@ taxonomies:
 
 menu:
     main:
-        - name: Notes
-          url: /notes/
-          weight: 1
         - name: Papers
           url: /papers/
+          weight: 1
+        - name: Courses
+          url: /courses/
           weight: 2
-        - name: Projects
-          url: /projects/
+        - name: Design
+          url: /design/
           weight: 3
-        # - name: Tags
-        #   url: /tags/
-        #   weight: 4 
-        - name: About
-          url: /about/
-          weight: 4    
+        - name: Tags
+          url: /tags/
+          weight: 4     
         - name: Newsletter
-          url: https://macrolearner.substack.com
+          url: https://pmichaillat.substack.com
           weight: 5
 
 params:
@@ -42,7 +37,7 @@ params:
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
-    disableThemeToggle: false
+    disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -62,34 +57,34 @@ params:
           enabled: true
           title: Suraj Kumar
           subtitle: "I am an Reaserch Associate at CAFRAL. Previously, I have worked at Goldman Sachs, American Express and Credit Suisse. "
-          imageUrl: "images/picture.jpeg"
+          imageUrl: "/picture.jpeg"
           imageWidth: 170
           imageHeight: 170
           imageTitle: Suraj Kumar
           buttons:
-            - name: Notes
-              url: /notes/
-            - name: Projects
-              url: /projects/
-            # - name: Design
-            #   url: /design/
+            - name: Papers
+              url: /papers/
+            - name: Courses
+              url: /courses/
+            - name: Design
+              url: /design/
     socialIcons:
         - name: CV
-          url: "/pdfs/cv.pdf"
+          url: "/CV_Suraj_kumar.pdf"
         - name: Email
           url: "mailto:surajdhunna@gmail.com"
-        # - name: Location
-        #   url: /location/
-        # - name: Office Hours
-        #   url: /officehours/
-        # - name: Google Scholar
-        #   url: "https://scholar.google.com/citations?user=cL23w-4AAAAJ"
-        # - name: YouTube
-        #   url: "https://www.youtube.com/@pmichaillat"
+        - name: Location
+          url: /location/
+        - name: Office Hours
+          url: /officehours/
+        - name: Google Scholar
+          url: "https://scholar.google.com/citations?user=cL23w-4AAAAJ"
+        - name: YouTube
+          url: "https://www.youtube.com/@pmichaillat"
         - name: GitHub
-          url: "https://github.com/iamsurajkumar"
+          url: "https://github.com/pmichaillat"
         - name: Substack
-          url: "https://macrolearner.substack.com"
+          url: "https://pmichaillat.substack.com"
 
     assets:
         disableHLJS: true
@@ -99,7 +94,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Suraj Kumar"
-      icon: /images/flaticon-writing.png
+      icon: /favicon.ico
       iconHeight: 18
 
 markup:
@@ -113,8 +108,6 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
-
-
 
 # max number of characters:
 # * title: 70

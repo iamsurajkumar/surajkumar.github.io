@@ -7,7 +7,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 social:
-    twitter: the_suraj_kumar
+    # twitter: pmichaillat
 
 taxonomies:
     tag: tags
@@ -31,9 +31,9 @@ menu:
           weight: 5
 
 params:
-    description: "I am a Research Associate at CAFRAL. I work on the field of macroeconomics and financial markets. Preivously, I have worked at Goldman Sachs, American Express and Credit Suisse"
-    author: Suraj KUmar
-    googleAnalyticsID: #"G-97G4MZ4061"
+    description: "I am a Research Associate at CAFRAL. Previously, I have worked as Research Analyst at Goldman Sachs."
+    author: Suraj Kumar
+    # googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
@@ -46,7 +46,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: false
-    ShowToc: false
+    ShowToc: true # i changed it from false
     disableScrollToTop: true
     TocOpen: true
     ShowWordCount: false
@@ -56,35 +56,35 @@ params:
     profileMode:
           enabled: true
           title: Suraj Kumar
-          subtitle: "I am a Research Associate at CAFRAL. I work on the field of macroeconomics and financial markets. Preivously, I have worked at Goldman Sachs, American Express and Credit Suisse"
-          # imageUrl: "/picture.jpeg"  # remember to change it
+          subtitle: "I am an Reaserch Associate at CAFRAL. Previously, I have worked at Goldman Sachs, American Express and Credit Suisse. "
+          imageUrl: "/picture.jpeg"
           imageWidth: 170
           imageHeight: 170
           imageTitle: Suraj Kumar
-          # buttons:
-          #   - name: Papers
-          #     url: /papers/
-          #   - name: Courses
-          #     url: /courses/
-          #   - name: Design
-          #     url: /design/
+          buttons:
+            - name: Papers
+              url: /papers/
+            - name: Courses
+              url: /courses/
+            - name: Design
+              url: /design/
     socialIcons:
         - name: CV
-          url: "/cv.pdf"
-        # - name: Email
-        #   url: "mailto:pascalmichaillat@gmail.com"
-        # - name: Location
-        #   url: /location/
-        # - name: Office Hours
-        #   url: /officehours/
-        # - name: Google Scholar
-        #   url: "https://scholar.google.com/citations?user=cL23w-4AAAAJ"
-        # - name: YouTube
-        #   url: "https://www.youtube.com/@pmichaillat"
-        # - name: GitHub
-        #   url: "https://github.com/pmichaillat"
-        # - name: Substack
-        #   url: "https://pmichaillat.substack.com"
+          url: "/CV_Suraj_kumar.pdf"
+        - name: Email
+          url: "mailto:surajdhunna@gmail.com"
+        - name: Location
+          url: /location/
+        - name: Office Hours
+          url: /officehours/
+        - name: Google Scholar
+          url: "https://scholar.google.com/citations?user=cL23w-4AAAAJ"
+        - name: YouTube
+          url: "https://www.youtube.com/@pmichaillat"
+        - name: GitHub
+          url: "https://github.com/pmichaillat"
+        - name: Substack
+          url: "https://pmichaillat.substack.com"
 
     assets:
         disableHLJS: true

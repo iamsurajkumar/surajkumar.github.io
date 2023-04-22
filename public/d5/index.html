@@ -5,16 +5,16 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Minimalist Hugo Template for Academic Websites | Pascal Michaillat</title>
+<title>Minimalist Hugo Template for Academic Websites | Suraj Kumar</title>
 <meta name="keywords" content="">
 <meta name="description" content="This template produces a minimalist academic website with Hugo.">
 <meta name="author" content="Pascal Michaillat">
-<link rel="canonical" href="https://pascalmichaillat.org/d5/">
+<link rel="canonical" href="https://surajkumar.me/d5/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.c2d92e26b63b12cd5063e1975cc4b91ecbeaff701976ba6e4534a183551e47c2.css" integrity="sha256-wtkuJrY7Es1QY&#43;GXXMS5Hsvq/3AZdrpuRTShg1UeR8I=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://pascalmichaillat.org/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://pascalmichaillat.org/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://pascalmichaillat.org/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://pascalmichaillat.org/apple-touch-icon.png">
+<link rel="icon" href="https://surajkumar.me/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://surajkumar.me/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://surajkumar.me/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://surajkumar.me/apple-touch-icon.png">
 
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
@@ -29,16 +29,15 @@
 </noscript><meta property="og:title" content="Minimalist Hugo Template for Academic Websites" />
 <meta property="og:description" content="This template produces a minimalist academic website with Hugo." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://pascalmichaillat.org/d5/" />
-<meta property="og:image" content="https://pascalmichaillat.org/d5.png" /><meta property="article:section" content="design" />
+<meta property="og:url" content="https://surajkumar.me/d5/" />
+<meta property="og:image" content="https://surajkumar.me/d5.png" /><meta property="article:section" content="design" />
 <meta property="article:published_time" content="2023-04-01T00:00:00+00:00" />
 <meta property="article:modified_time" content="2023-04-01T00:00:00+00:00" />
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="https://pascalmichaillat.org/d5.png" />
+<meta name="twitter:image" content="https://surajkumar.me/d5.png" />
 <meta name="twitter:title" content="Minimalist Hugo Template for Academic Websites"/>
 <meta name="twitter:description" content="This template produces a minimalist academic website with Hugo."/>
-<meta name="twitter:site" content="@pmichaillat"/>
 
 
 <script type="application/ld+json">
@@ -50,13 +49,13 @@
       "@type": "ListItem",
       "position":  1 ,
       "name": "Design",
-      "item": "https://pascalmichaillat.org/design/"
+      "item": "https://surajkumar.me/design/"
     }, 
     {
       "@type": "ListItem",
       "position":  2 ,
       "name": "Minimalist Hugo Template for Academic Websites",
-      "item": "https://pascalmichaillat.org/d5/"
+      "item": "https://surajkumar.me/d5/"
     }
   ]
 }
@@ -74,7 +73,7 @@
   "articleBody": "Overview The source code to this website is publicly available as a template repository, so anyone can generate a new repository with the same directory structure and files, and quickly create their own academic website. The code might also be helpful to anyone who wishes to recreate specific features of this website.\nThe website is built with Hugo , which is a very fast, open-source static website generator. The website design is based on PaperMod , which is a minimalist, fast, and flexible Hugo theme. The theme design has been customized for academic websites. The first goal was to obtain a minimalist website that is easy to navigate, fast to load, and easy to maintain. The second goal was to obtain a webstie that focuses on the research and teaching material.\nDownload Source code to this website Installation Upon cloning the source code to your local machine, make sure to update the parameters that are specific to your website in the configuration file config.yml. Such parameters include:\nbaseURL title social:twitter params:author params:description params:googleAnalyticsID params:profileMode:title params:profileMode:subtitle params:profileMode:imageTitle all the URLs under params:socialIcons Features The PaperMod theme is tailored to be more adapted to academic websites.\nContent organization The content of the website is organized in three categories, which are available from any page through the navigation menu and from the home page through buttons:\nPapers – List of published and unpublished research papers, with links to individual paper pages Courses – List of undergraduate and graduate courses taught, with links to individual course pages Design projects – List of various design projects, with links to individual project pages It is easy to add new categories from here (code, data, and so on). Tags and archive Two automatically generated lists are added to the website:\nTags – List of all the keywords for papers and courses Archive – Chronological list of all papers, courses, and design projects Search page A search page can also be added to the website:\nPlace archetypes/search.md into content/ Add the following snippet below menu:main: in config.yml: - name: Search url: /search/ weight: 6 Social icons The website includes new social icons specific to academia:\nOffice hours – Use name: Office Hours below params:socialIcons: in config.yml Zoom – Use name: Zoom below params:socialIcons: in config.yml Substack – Use name: Substack below params:socialIcons: in config.yml Google Scholar – Use name: Google Scholar below params:socialIcons: in config.yml All the icons are located in layouts/partials/svg.html Footer The website does not have a footer, but it is possible to add one:\nSet hideFooterto false in config.yml. Customize email address and link to newsletter in layouts/partials/footer.html Other modifications The page metadata is tailored to the academic context, with a simple date format and permalinks for published articles and other projects. Color scheme, font, and general appearance are personalized. The template also comes with archetypes for paper pages and course pages. Hosting The website is hosted on GitHub Pages and deployed with GitHub Actions , which is a simple way to deploy a website hosted in a GitHub repository.\nDomain name The website’s domain name (https://pascalmichaillat.org/ ) is registered with Google Domains , which offers simple way to register your domain name and link it to your website .\n",
   "wordCount" : "535",
   "inLanguage": "en",
-  "image":"https://pascalmichaillat.org/d5.png","datePublished": "2023-04-01T00:00:00Z",
+  "image":"https://surajkumar.me/d5.png","datePublished": "2023-04-01T00:00:00Z",
   "dateModified": "2023-04-01T00:00:00Z",
   "author":{
     "@type": "Person",
@@ -82,28 +81,19 @@
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://pascalmichaillat.org/d5/"
+    "@id": "https://surajkumar.me/d5/"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Pascal Michaillat",
+    "name": "Suraj Kumar",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://pascalmichaillat.org/favicon.ico"
+      "url": "https://surajkumar.me/favicon.ico"
     }
   }
 }
 </script>
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-97G4MZ4061"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-97G4MZ4061');
-</script>
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn" crossorigin="anonymous">
@@ -140,32 +130,32 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://pascalmichaillat.org/" accesskey="h" title="Pascal Michaillat">
+            <a href="https://surajkumar.me/" accesskey="h" title="Suraj Kumar">
              
-                <img src="https://pascalmichaillat.org/favicon.ico" alt="" aria-label="logo"
+                <img src="https://surajkumar.me/favicon.ico" alt="" aria-label="logo"
                     height="18"
-                    width="18">Pascal Michaillat</a>
+                    width="18">Suraj Kumar</a>
             <div class="logo-switches">
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="https://pascalmichaillat.org/papers/" title="Papers">
+                <a href="https://surajkumar.me/papers/" title="Papers">
                     <span>Papers</span>
                 </a>
             </li>
             <li>
-                <a href="https://pascalmichaillat.org/courses/" title="Courses">
+                <a href="https://surajkumar.me/courses/" title="Courses">
                     <span>Courses</span>
                 </a>
             </li>
             <li>
-                <a href="https://pascalmichaillat.org/design/" title="Design">
+                <a href="https://surajkumar.me/design/" title="Design">
                     <span>Design</span>
                 </a>
             </li>
             <li>
-                <a href="https://pascalmichaillat.org/tags/" title="Tags">
+                <a href="https://surajkumar.me/tags/" title="Tags">
                     <span>Tags</span>
                 </a>
             </li>

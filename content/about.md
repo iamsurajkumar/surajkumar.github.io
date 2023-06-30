@@ -18,13 +18,12 @@ Working at Goldman Sachs was undeniably fascinating and challenging, and I had t
 
 ---
 **Work Experience**
+Research Associate, CAFRAL, *Reserve Bank of India* - 2022 - Present
+Economics Analyst, *Global Investment Research, Goldman Sachs* - 2020-2022
+Business Analyst, *American Express* - 2019-2020
+Model Validator, *Credit Suisse* - 2018-2019
 
-Research Associate, CAFRAL, Reserve Bank of India - 2022 - Present
-Economics Analyst, Global Investment Research, Goldman Sachs - 2020-2022
-Business Analyst, American Express - 2019-2020
-Model Validator, Credit Suisse - 2018-2019
 ---
 **Education**
-
 B.Tech in Civil Engineering, Indian Institute of Technology Delhi, 2010-2014
 MA in Economics, Delhi School of Economics, 2016-2018.

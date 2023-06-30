@@ -22,8 +22,11 @@ menu:
         - name: Papers
           url: /papers/
           weight: 2
-        - name: Projects
-          url: /projects/
+        # - name: Projects
+        #   url: /projects/
+        #   weight: 3
+        - name: Codes
+          url: https://github.com/iamsurajkumar
           weight: 3
         # - name: Tags
         #   url: /tags/
@@ -31,12 +34,12 @@ menu:
         - name: About
           url: /about/
           weight: 4    
-        - name: Newsletter
-          url: https://macrolearner.substack.com
-          weight: 5
+        # - name: Newsletter
+        #   url: https://macrolearner.substack.com
+        #   weight: 5
 
 params:
-    description: "I am a Research Associate at CAFRAL. Previously, I have worked as Research Analyst at Goldman Sachs."
+    description: "I am a Reaserch Associate at CAFRAL. Previously, I have worked at Goldman Sachs, American Express and Credit Suisse. I am interested in Macroeconomics, Finance and Econometrics"
     author: Suraj Kumar
     # googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
@@ -61,7 +64,7 @@ params:
     profileMode:
           enabled: true
           title: Suraj Kumar
-          subtitle: "I am an Reaserch Associate at CAFRAL. Previously, I have worked at Goldman Sachs, American Express and Credit Suisse. "
+          subtitle: "I am a Reaserch Associate at CAFRAL. Previously, I have worked at Goldman Sachs, American Express and Credit Suisse. I am interested in Macroeconomics, Finance and Econometrics"
           imageUrl: "images/picture.jpeg"
           imageWidth: 170
           imageHeight: 170
@@ -69,8 +72,8 @@ params:
           buttons:
             - name: Notes
               url: /notes/
-            - name: Projects
-              url: /projects/
+            - name: Papers
+              url: /papers/
             # - name: Design
             #   url: /design/
     socialIcons:
@@ -88,8 +91,8 @@ params:
         #   url: "https://www.youtube.com/@pmichaillat"
         - name: GitHub
           url: "https://github.com/iamsurajkumar"
-        - name: Substack
-          url: "https://macrolearner.substack.com"
+        # - name: Substack
+        #   url: "https://macrolearner.substack.com"
 
     assets:
         disableHLJS: true

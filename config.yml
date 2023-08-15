@@ -14,6 +14,7 @@ social:
 taxonomies:
     tag: tags
 
+# For the menu on the top after you have browsed intially
 menu:
     main:
         - name: Notes
@@ -54,13 +55,14 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: false
-    ShowToc: true # i changed it from false
+    ShowToc: false # i kept it at false
     disableScrollToTop: true
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
     comments: false
     math: true
+    # For the homepage
     profileMode:
           enabled: true
           title: Suraj Kumar
@@ -78,7 +80,7 @@ params:
             #   url: /design/
     socialIcons:
         - name: CV
-          url: "/pdfs/cv.pdf"
+          url: https://drive.google.com/file/d/1AcrZLPlqCQaSWEStJ8tgs57_oQhAehMP/view?usp=sharing
         - name: Email
           url: "mailto:surajdhunna@gmail.com"
         # - name: Location

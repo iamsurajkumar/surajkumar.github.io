@@ -40,7 +40,7 @@ menu:
         #   weight: 5
 
 params:
-    description: "I am a Research Associate at CAFRAL. Previously, I have worked at Goldman Sachs, American Express and Credit Suisse. I am interested in Macroeconomics, Finance and Econometrics"
+    description: "I am a Research Associate at CAFRAL. Previously, I have worked at Goldman Sachs, American Express and Credit Suisse. I am interested in Macroeconomics, Finance and Econometrics."
     author: Suraj Kumar
     # googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
@@ -66,7 +66,7 @@ params:
     profileMode:
           enabled: true
           title: Suraj Kumar
-          subtitle: "I am a Research Associate at CAFRAL. Previously, I have worked at Goldman Sachs, American Express and Credit Suisse. I am interested in Macroeconomics, Finance and Econometrics"
+          subtitle: "I am a Research Associate at CAFRAL. Previously, I have worked at Goldman Sachs, American Express and Credit Suisse. I am interested in Macroeconomics, Finance and Econometrics."
           imageUrl: "images/picture.jpeg"
           imageWidth: 170
           imageHeight: 170

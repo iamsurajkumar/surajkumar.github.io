@@ -2,7 +2,7 @@
 title: "Yield Curve and Macroeconomics (in progress)"
 date: 2023-08-11T23:42:53+05:30
 # url: /papers/yield-curve-macroeconomy
-draft: false
+draft: true
 author: ["Suraj Kumar"]
 Summary: "Estimating the interaction of yield curve and macroeconomy in the context of EM countries."
 ---

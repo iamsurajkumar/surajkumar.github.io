@@ -8,7 +8,7 @@ Summary: "The lecture slides explaining the Fed functioning in ample-reserves fr
 
 ---
 #### Download
-[Slides](https://drive.google.com/file/d/1S8qEEKJdhph_m7jxI0Zc21E3FX77RWqY/view)
+[Slides](https://bc0-my.sharepoint.com/:b:/g/personal/kumasu_bc_edu/EbE1bi_m5-BGleS6Ro2438IBH2Bk0VpBmwY3HAu4xjxLDA)
 
 ---
 

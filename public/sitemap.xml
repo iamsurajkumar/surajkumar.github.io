@@ -2,15 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://surajkumar.me/notes/my-first-note/</loc>
-    <lastmod>2023-04-22T22:26:42+05:30</lastmod>
+    <loc>http://localhost:1313/officehours/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://surajkumar.me/notes/</loc>
-    <lastmod>2023-04-22T22:26:42+05:30</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://surajkumar.me/</loc>
-    <lastmod>2023-04-22T22:26:42+05:30</lastmod>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2023-08-15T20:26:28+05:30</lastmod>
   </url><url>
-    <loc>https://surajkumar.me/tags/</loc>
+    <loc>http://localhost:1313/blog/my-first-note/</loc>
+    <lastmod>2023-08-15T20:26:28+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/academic-research/</loc>
+    <lastmod>2023-08-11T23:42:53+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/academic-research/yield-curve-macroeconomy/</loc>
+    <lastmod>2023-08-11T23:42:53+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/market-research/how-the-fed-works/</loc>
+    <lastmod>2023-06-30T23:42:53+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/market-research/</loc>
+    <lastmod>2023-06-30T23:42:53+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2023-04-22T23:02:49+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/market-research/discovering-india-potential-growth/</loc>
+    <lastmod>2022-08-05T21:31:11+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/market-research/rbi-reaction-function/</loc>
+    <lastmod>2022-05-15T21:31:11+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/market-research/india-inflation-higher-for-longer/</loc>
+    <lastmod>2022-03-12T21:31:11+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/market-research/india-trade-exports/</loc>
+    <lastmod>2021-12-10T21:31:11+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

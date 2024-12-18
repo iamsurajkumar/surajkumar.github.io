@@ -1,51 +1,55 @@
 baseURL: "https://surajkumar.me/" 
 title: Suraj Kumar
-paginate: 20
 theme: PaperMod
-
-assetsDir: "static" # so that the theme picks up the images from static folder properly
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-social:
-    # twitter: pmichaillat
-
 taxonomies:
     tag: tags
 
-# For the menu on the top after you have browsed intially
 menu:
     main:
-        - name: Notes
-          url: /notes/
-          weight: 1
-        - name: Papers
-          url: /papers/
-          weight: 2
-        # - name: Projects
-        #   url: /projects/
+        # - name: Books
+        #   url: books/
+        #   weight: 5  
+        # - name: Courses
+        #   url: courses/
         #   weight: 3
+        # - name: Data
+        #   url: data/
+        #   weight: 4 
+        # - name: Blog
+        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        #   weight: 6
+        - name: Market Research
+          url: market-research/
+          weight: 1
+        - name: Academic Research
+          url: academic-research/
+          weight: 2
         - name: Codes
           url: https://github.com/iamsurajkumar
           weight: 3
-        # - name: Tags
-        #   url: /tags/
-        #   weight: 4 
+        - name: Blog
+          url: blog/
+          weight: 4
         - name: About
           url: /about/
-          weight: 4    
-        # - name: Newsletter
-        #   url: https://macrolearner.substack.com
-        #   weight: 5
+          weight: 4   
+
+
+# Explanation for the Weight
+# weight: The weight field is used to determine the order in which this menu item or section appears relative to others. A lower weight value typically means higher priority, causing the item to appear earlier in the list. In this example, the weight is set to 5, which will influence its position in the menu or section order.
+
 
 params:
-    description: "I am a Ph.D. student at Boston College studying Economics. In the past, I worked as an Economics Analyst at the Reserve Bank of India and Goldman Sachs. I also trained as a Data Analyst at American Express and Credit Suisse."
+    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
     author: Suraj Kumar
-    # googleAnalyticsID: "G-97G4MZ4061"
+    # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
-    hideFooter: true
+    hideFooter: true # Hidden The footer
     disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
@@ -54,85 +58,90 @@ params:
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
-    ShowRssButtonInSectionTermList: false
-    ShowToc: false # i kept it at false
+    ShowAllPagesInArchive: false
+    MainSections: ["market-research","academic-research"] #["books","courses","Academic Research","data"]
+    ShowToc: false
     disableScrollToTop: true
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
     comments: false
     math: true
-    # For the homepage
     profileMode:
           enabled: true
           title: Suraj Kumar
-          subtitle: "I am a Ph.D. student at Boston College studying Economics. In the past, I worked as an Economics Analyst at the Reserve Bank of India and Goldman Sachs. I also trained as a Data Analyst at American Express and Credit Suisse."
-          imageUrl: "images/picture.jpeg"
-          imageWidth: 170
-          imageHeight: 170
+          subtitle: "Hi there! I'm Suraj Kumar, a Ph.D. student in Economics at Boston College. With over 5 years of industry experience, I've worked as a Research Associate at Reserve Bank of India, an Economics Analyst at Goldman Sachs and a Data Analyst at American Express and Credit Suisse. I'm passionate about macroeconomic analysis, time-series econometrics, and financial research."
+          imageUrl: "suraj-profile-photo.jpeg"
+          imageWidth: 160
+          imageHeight: 160
           imageTitle: Suraj Kumar
           buttons:
-            - name: Notes
-              url: /notes/
-            - name: Papers
-              url: /papers/
-            # - name: Design
-            #   url: /design/
+            - name: CV
+              url: https://bc0-my.sharepoint.com/:b:/g/personal/kumasu_bc_edu/ETI3yBDfVwdMvKs4r9yA8ZwB9MI43DupSmP5ewJKED2OAw?e=2cMdWw
+            # - name: Email
+            #   url: mailto:suraj.kumar@bc.edu
+            - name: Market Research
+              url: market-research/
+            - name: Academic Research
+              url: academic-research/
+
+            # - name: Courses
+            #   url: courses/
+            # - name: Data
+            #   url: data/
+            # - name: Books
+            #   url: books/
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
+            - name: GitHub
+              url: https://github.com/iamsurajkumar
+            - name: Bio
+              url: about
+            # - name: X
+            #   url: https://x.com/the_suraj_kumar
+
     socialIcons:
-        - name: CV
-          url: https://bc0-my.sharepoint.com/:b:/g/personal/kumasu_bc_edu/ETI3yBDfVwdMvKs4r9yA8ZwB9MI43DupSmP5ewJKED2OAw?e=2cMdWw
+        # - name: CV
+        #   url: cv.pdf
         - name: Email
-          url: "mailto:surajdhunna@gmail.com"
+          url: mailto:suraj.kumar@bc.edu
+        # - name: Zoom
+        #   url: https://www.zoom.us/my/igelfeld
         # - name: Location
-        #   url: /location/
+        #   url: location/
         # - name: Office Hours
-        #   url: /officehours/
+        #   url: officehours/
         # - name: Google Scholar
-        #   url: "https://scholar.google.com/citations?user=cL23w-4AAAAJ"
-        # - name: YouTube
-        #   url: "https://www.youtube.com/@pmichaillat"
-        - name: GitHub
-          url: "https://github.com/iamsurajkumar"
+        #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        # - name: GitHub
+        #   url: https://github.com/iamsurajkumar
         # - name: Substack
-        #   url: "https://macrolearner.substack.com"
+        #   url: https://pmichaillat.substack.com
+        # - name: YouTube
+        #   url: https://www.youtube.com/@alexandermccallsmithoffici9000
+        - name: X
+          url: https://x.com/the_suraj_kumar
 
     assets:
-        disableHLJS: true
         disableScrollBarStyle: true
     cover:
-        hiddenInList: true
+        hiddenInList: false
         hiddenInSingle: true
     label:
       text: "Suraj Kumar"
-      icon: /images/flaticon-writing.png
+      icon: favicon.ico
       iconHeight: 18
-    fuseOpts:
-            isCaseSensitive: false
-            shouldSort: true
-            location: 0
-            distance: 1000
-            threshold: 0.4
-            minMatchCharLength: 0
-            keys: ["title", "permalink", "summary", "content"]
+
 markup:
     goldmark:
         renderer:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: xcode
+        style: autumn 
     tableOfContents:
         endLevel: 2
         ordered: false
         startLevel: 2
-
-outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON # is necessary
-
-# max number of characters:
-# * title: 70
-# * description: 120–155
-# * summary: 265

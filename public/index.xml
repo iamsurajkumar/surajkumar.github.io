@@ -2,19 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Suraj Kumar</title>
-    <link>https://surajkumar.me/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Suraj Kumar</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 22 Apr 2023 22:26:42 +0530</lastBuildDate><atom:link href="https://surajkumar.me/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.139.4</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Note</title>
-      <link>https://surajkumar.me/notes/my-first-note/</link>
-      <pubDate>Sat, 22 Apr 2023 22:26:42 +0530</pubDate>
-      
-      <guid>https://surajkumar.me/notes/my-first-note/</guid>
-      <description>Introduction Let me think, how do I want to begin journy of writing my own independent research notes. I always wanted to start with after leaving Goldman Sachs, but some or the other way I delayed it.
-Now by chance discovey of it, I have kind of figured it out how to do it. But yeah, I would like to give the credit for this to Prof. Pascal Michaillat who inspired me to use Hugo to for this purpose.</description>
+      <title>Office Hours</title>
+      <link>http://localhost:1313/officehours/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/officehours/</guid>
+      <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
     </item>
-    
+    <item>
+      <title>Welcome!</title>
+      <link>http://localhost:1313/blog/my-first-note/</link>
+      <pubDate>Tue, 15 Aug 2023 20:26:28 +0530</pubDate>
+      <guid>http://localhost:1313/blog/my-first-note/</guid>
+      <description>About the objectives of this blog</description>
+    </item>
+    <item>
+      <title>Yield Curve and Macroeconomics (in progress)</title>
+      <link>http://localhost:1313/academic-research/yield-curve-macroeconomy/</link>
+      <pubDate>Fri, 11 Aug 2023 23:42:53 +0530</pubDate>
+      <guid>http://localhost:1313/academic-research/yield-curve-macroeconomy/</guid>
+      <description>Estimating the interaction of yield curve and macroeconomy in the context of EM countries.</description>
+    </item>
+    <item>
+      <title>How the Federal Reserve implements monetary policy</title>
+      <link>http://localhost:1313/market-research/how-the-fed-works/</link>
+      <pubDate>Fri, 30 Jun 2023 23:42:53 +0530</pubDate>
+      <guid>http://localhost:1313/market-research/how-the-fed-works/</guid>
+      <description>The lecture slides explaining the Fed functioning in ample-reserves framework after the GFC</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 22 Apr 2023 23:02:49 +0530</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;about-the-blog&#34;&gt;About the blog&lt;/h2&gt;
+&lt;p&gt;The website is structured as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Market Research&lt;/strong&gt;: A collection of my previous market research notes from Goldman Sachs and commentary on market developments.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Academic Research&lt;/strong&gt;: My working papers and models are available here.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Code&lt;/strong&gt;: A link to my GitHub profile.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;About&lt;/strong&gt;: The page you&amp;rsquo;re currently on, describing the structure of the blog and providing details about me.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blog&lt;/strong&gt;: Personal thoughts, paper reviews, and other topics that don&amp;rsquo;t fit into the above categories.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;about-me--professional-summary&#34;&gt;About Me,  &lt;em&gt;Professional Summary&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;Hello! I&amp;rsquo;m an &lt;em&gt;Engineer-turned-Economist&lt;/em&gt; with a passion for macroeconomics. After graduating from IIT Delhi in 2014 with a B.Tech in Civil Engineering, I developed a strong interest in economics, which led me to pursue a Master&amp;rsquo;s degree at the Delhi School of Economics.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Discovering India Potential Growth</title>
+      <link>http://localhost:1313/market-research/discovering-india-potential-growth/</link>
+      <pubDate>Fri, 05 Aug 2022 21:31:11 +0530</pubDate>
+      <guid>http://localhost:1313/market-research/discovering-india-potential-growth/</guid>
+      <description>This reasearch note analyzes the potential drivers of India&amp;#39;s growth for next decade, using the Long Term Growth Model built by the World Bank, namely investment, labour and TFP growth.</description>
+    </item>
+    <item>
+      <title>How does the RBI respond to elevated inflation in a Fed hiking cycle?</title>
+      <link>http://localhost:1313/market-research/rbi-reaction-function/</link>
+      <pubDate>Sun, 15 May 2022 21:31:11 +0530</pubDate>
+      <guid>http://localhost:1313/market-research/rbi-reaction-function/</guid>
+      <description>We estimate the RBI&amp;rsquo;s reaction function using output gap, inflation gap, US policy rate, external vulnerability, and the &amp;lsquo;real rate stance&amp;rsquo; of the RBI governor (or MPCs). Our model is able to explain over 80% of the variation in policy repo rates.</description>
+    </item>
+    <item>
+      <title>Higher for longer: India’s inflation outlook post supply shock</title>
+      <link>http://localhost:1313/market-research/india-inflation-higher-for-longer/</link>
+      <pubDate>Sat, 12 Mar 2022 21:31:11 +0530</pubDate>
+      <guid>http://localhost:1313/market-research/india-inflation-higher-for-longer/</guid>
+      <description>India&amp;rsquo;s core CPI inflation has increased to 6% yoy despite a negative output gap, driven by core goods inflation increasing to 7% yoy. Given higher food prices and elevated commodities prices, we estimate headline CPI inflation to average 6.6% yoyin 2022, above the 2%-6% RBI target band.</description>
+    </item>
+    <item>
+      <title>What drives India’s exports?</title>
+      <link>http://localhost:1313/market-research/india-trade-exports/</link>
+      <pubDate>Fri, 10 Dec 2021 21:31:11 +0530</pubDate>
+      <guid>http://localhost:1313/market-research/india-trade-exports/</guid>
+      <description>We estimate that India&amp;rsquo;s export growth is more elastic to changes in the trading partners country growth compared to changes in the real effective exchange rate (REER). We also find that domestic demand drives the imports growth.</description>
+    </item>
   </channel>
 </rss>

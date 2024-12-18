@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Papers on Suraj Kumar</title>
+    <link>http://localhost:1313/academic-research/</link>
+    <description>Recent content in Papers on Suraj Kumar</description>
+    <generator>Hugo -- 0.139.4</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Aug 2023 23:42:53 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/academic-research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yield Curve and Macroeconomics (in progress)</title>
+      <link>http://localhost:1313/academic-research/yield-curve-macroeconomy/</link>
+      <pubDate>Fri, 11 Aug 2023 23:42:53 +0530</pubDate>
+      <guid>http://localhost:1313/academic-research/yield-curve-macroeconomy/</guid>
+      <description>Estimating the interaction of yield curve and macroeconomy in the context of EM countries.</description>
+    </item>
+  </channel>
+</rss>

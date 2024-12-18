@@ -6,33 +6,29 @@ draft: False
 
 ---
 ## About the blog
+The website is structured as follows:
 
-This website is structured as follows:
-
-1. Notes: This is where I put in my blog posts, summary of journal articles, previous market research notes from GS, and anything else.
-2. Papers: This is where I put my working papers and models.
-3. Code: Link to my GitHub profile.
-4. About: The page where you are currently -- describing the structure of the blog and few details about me.  
+1. **Market Research**: A collection of my previous market research notes from Goldman Sachs and commentary on market developments.
+2. **Academic Research**: My working papers and models are available here.
+3. **Code**: A link to my GitHub profile.
+4. **About**: The page you're currently on, describing the structure of the blog and providing details about me.
+5. **Blog**: Personal thoughts, paper reviews, and other topics that don't fit into the above categories.
 
 ---
 ## About Me,  *Professional Summary*
 
-I describe myself as an *Engineer-turned-Economist*. Even after working in the field of Economics for the past 5 years, I still consider myself an Engineer at heart. By chance, I stumbled upon Economics after graduating from IIT Delhi in 2014. I developed a strong interest in the subject and decided to pursue formal studies in economics. As a result, I enrolled in a Master's program at the Delhi School of Economics.
+Hello! I'm an *Engineer-turned-Economist* with a passion for macroeconomics. After graduating from IIT Delhi in 2014 with a B.Tech in Civil Engineering, I developed a strong interest in economics, which led me to pursue a Master's degree at the Delhi School of Economics.
 
-Due to some financial constraints at that time, I made the decision to take up a corporate job. Thus, I started working as an analyst at Credit Suisse, where I validated macro models predicting revenue from a business segment in the EMEA region. After some time, I transitioned to American Express, where I worked on building machine learning models using XGBoost to predict prospective customer credit card spending. However, pure machine learning did not fulfill my passion for macroeconomics, and I began searching for other opportunities. Fortunately, I was offered a job as a research analyst at Global Investment Research at Goldman Sachs, where I focused on covering India's macroeconomic developments.
+I began my career as a Model Validator at Credit Suisse, validating macro models predicting revenue in the EMEA region. Later, at American Express, I built machine learning models to predict customer credit card spending. My desire to focus on macroeconomics brought me to Goldman Sachs as an Economics Analyst, where I covered India's macroeconomic developments, tracked key economic indicators, wrote thematic reports, and addressed client queries.
 
-My work at Goldman Sachs provided crucial experience and allowed me to gain insight into the role of a market economist. Specifically, my responsibilities included:
+In September 2022, I joined the Centre for Advanced Financial Research and Learning (CAFRAL) at the Reserve Bank of India as a Research Associate. Currently, I'm pursuing a Ph.D. in Economics at Boston College, aiming to deepen my understanding and contribute to the field.
 
-1. Tracking the Indian Economy: Monitoring GDP, inflation, RBI policy meetings, and trade and fiscal data.
-2. Writing thematic pieces on India's economy, such as analyzing the drivers of India's exports, exploring long-term potential growth for India, and examining the determinants of RBI policy rates.
-3. Addressing client queries.
-
-Working at Goldman Sachs was undeniably fascinating and challenging, and I had the privilege of having excellent mentors. However, my desire to pursue a PhD remained strong. In September 2022, I joined as a Research Associate at the Centre for Advanced Financial Research and Learning (CAFRAL) at the Reserve Bank of India, where I am currently engaged.
+Thank you for visiting my blog! Here, I share my thoughts on market research, academic pursuits, and more. Feel free to explore and connect with me.
 
 ---
 #### Work Experience
 
-* Research Associate, CAFRAL, *Reserve Bank of India* - 2022 - Present
+* Research Associate, CAFRAL, *Reserve Bank of India* - 2022 - 2024
 * Economics Analyst, *Global Investment Research, Goldman Sachs* - 2020-2022
 * Business Analyst, *American Express* - 2019-2020
 * Model Validator, *Credit Suisse* - 2018-2019
@@ -40,5 +36,6 @@ Working at Goldman Sachs was undeniably fascinating and challenging, and I had t
 ---
 #### Education
 
+* Ph.D. in Economics (in progress), Boston College, *Expected 2029*
 * B.Tech in Civil Engineering, Indian Institute of Technology Delhi, 2010-2014
 * MA in Economics, Delhi School of Economics, 2016-2018.

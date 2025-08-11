@@ -3,7 +3,7 @@ title: "Trade Intervention for Freer Trade"
 date: 2024-12-21
 # url: /papers/yield-curve-macroeconomy
 tags: ["Dollar","Free Trade"]
-draft: false
+draft: true
 author: ["Suraj Kumar"]
 description: "Reviewing the role of trade intervention in promoting free trade."
 summary: "The review of Michael Pettis's paper on using trade intervention to promote free trade."

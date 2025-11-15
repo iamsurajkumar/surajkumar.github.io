@@ -3,7 +3,7 @@ title: "Trade Intervention for Freer Trade"
 date: 2024-12-21
 # url: /papers/yield-curve-macroeconomy
 tags: ["Dollar","Free Trade"]
-draft: true
+draft: False
 author: ["Suraj Kumar"]
 description: "Reviewing the role of trade intervention in promoting free trade."
 summary: "The review of Michael Pettis's paper on using trade intervention to promote free trade."
@@ -31,16 +31,6 @@ In this review, my goal is to summarize briefly the key points of the paper, and
 3. **High Savings Rate**. This repressed demand in the surplus countries leads to higher saving rates, not because the households value hard work and thrift more compared to the deficit countries, but because they have no other choice. The high saving rates is the result of distribution of income towards the businesses and rich households which naturally save more compared to others. 
 
 4. **Causal Link of higher savings in the surplus countries lead to lower savings in the deficit countries**. The high savings in the surplus countries leads to lower 
-
-
-
-
-
-#### Improvments
-
-
-
-
 
 
 

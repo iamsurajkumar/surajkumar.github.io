@@ -22,21 +22,21 @@ menu:
         # - name: Blog
         #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
         #   weight: 6
-        - name: Market Research
-          url: market-research/
-          weight: 1
-        - name: Academic Research
-          url: academic-research/
-          weight: 2
-        - name: Codes
-          url: https://github.com/iamsurajkumar
-          weight: 3
         - name: Blog
           url: blog/
+          weight: 1
+        - name: Market Research
+          url: market-research/
+          weight: 2
+        - name: Academic Research
+          url: academic-research/
+          weight: 3
+        - name: Codes
+          url: https://github.com/iamsurajkumar
           weight: 4
         - name: About
           url: /about/
-          weight: 4   
+          weight: 5   
 
 
 # Explanation for the Weight
@@ -80,11 +80,12 @@ params:
               url: https://bc0-my.sharepoint.com/:b:/g/personal/kumasu_bc_edu/ETI3yBDfVwdMvKs4r9yA8ZwB9MI43DupSmP5ewJKED2OAw?e=2cMdWw
             # - name: Email
             #   url: mailto:suraj.kumar@bc.edu
-            - name: Market Research
-              url: market-research/
-            - name: Academic Research
-              url: academic-research/
-
+            # - name: Market Research
+            #   url: market-research/
+            # - name: Academic Research
+            #   url: academic-research/
+            - name: Blog
+              url: blog/
             # - name: Courses
             #   url: courses/
             # - name: Data

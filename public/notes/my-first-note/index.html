@@ -29,11 +29,13 @@
 </noscript><meta property="og:title" content="Welcome!" />
 <meta property="og:description" content="About the objectives of this blog" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/notes/my-first-note/" /><meta property="article:section" content="notes" />
+<meta property="og:url" content="http://localhost:1313/notes/my-first-note/" />
+<meta property="og:image" content="http://localhost:1313/images/writing-pen.jpg" /><meta property="article:section" content="notes" />
 <meta property="article:published_time" content="2023-08-15T20:26:28+05:30" />
 <meta property="article:modified_time" content="2023-08-15T20:26:28+05:30" />
 
-<meta name="twitter:card" content="summary"/>
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="http://localhost:1313/images/writing-pen.jpg" />
 <meta name="twitter:title" content="Welcome!"/>
 <meta name="twitter:description" content="About the objectives of this blog"/>
 
@@ -68,10 +70,10 @@
   "keywords": [
     
   ],
-  "articleBody": "\rIntroduction Let me think, how do I want to begin journey of writing my own independent research notes. I always wanted to start it after leaving Goldman Sachs, but some or the other way I delayed it.\nNow by chance, I have kind of figured it out how to do it. But yeah, I would like to give the credit for this to Prof. Pascal Michaillat who inspired me to use Hugo to for this purpose.\nNow let me reflect on the intentions behind starting something like this, I mainly intend to cover the following items\nTo help us in understanding what is happening in global financial markets by writing a kind of weekly/monthly macro reviews where I would like to connect the developments in markets with economy. To discuss interesting research papers related to Indian Economy, Macroeconomy, Finance, Machine Learning and Markets. Or summarize existing good markets research My independent research Let’s get started! Suraj Kumar\n",
-  "wordCount" : "157",
+  "articleBody": "Introduction Welcome to my journey of writing independent research notes! I always wanted to start this after leaving Goldman Sachs, but somehow, I kept delaying it.\nNow, I’ve finally figured out how to do it. I owe a big thanks to Prof. Pascal Michaillat for inspiring me to use Hugo for this purpose.\nHere are my main intentions for starting this blog:\nTo help us understand global financial markets by writing weekly/monthly macro reviews, connecting market developments with the economy. To discuss interesting research papers related to the Indian Economy, Macroeconomy, Finance, Machine Learning, and Markets, or summarize existing market research. To share my independent research. Let’s get started! Suraj Kumar\n",
+  "wordCount" : "111",
   "inLanguage": "en",
-  "datePublished": "2023-08-15T20:26:28+05:30",
+  "image":"http://localhost:1313/images/writing-pen.jpg","datePublished": "2023-08-15T20:26:28+05:30",
   "dateModified": "2023-08-15T20:26:28+05:30",
   "author":[{
     "@type": "Person",
@@ -123,6 +125,12 @@
 </head>
 
 <body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    }
+
+</script>
 
 <header class="header">
     <nav class="nav">
@@ -132,17 +140,37 @@
                     height="18"
                     width="18">Suraj Kumar</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/notes/" title="Notes">
-                    <span>Notes</span>
+                <a href="http://localhost:1313/market-research/" title="Market Research">
+                    <span>Market Research</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/papers/" title="Papers">
-                    <span>Papers</span>
+                <a href="http://localhost:1313/academic-research/" title="Academic Research">
+                    <span>Academic Research</span>
                 </a>
             </li>
             <li>
@@ -161,6 +189,11 @@
                     <span>About</span>
                 </a>
             </li>
+            <li>
+                <a href="http://localhost:1313/blog/" title="Blog">
+                    <span>Blog</span>
+                </a>
+            </li>
         </ul>
     </nav>
 </header>
@@ -177,17 +210,15 @@
 
 </div>
   </header> 
-  <div class="post-content"><p><img loading="lazy" src="/images/writing-pen.jpg" alt=""  />
-</p>
-<h2 id="introduction">Introduction</h2>
-<p>Let me think, how do I want to begin journey of writing my own independent research notes. I always wanted to start it after leaving Goldman Sachs, but some or the other way I delayed it.</p>
-<p>Now by chance, I have kind of figured it out how to do it. But yeah, I would like to give the credit for this to <a href="https://pascalmichaillat.org/" target="_blank">Prof. Pascal Michaillat</a> who inspired me to use <em>Hugo</em> to for this purpose.</p>
+  <div class="post-content"><h2 id="introduction">Introduction</h2>
+<p>Welcome to my journey of writing independent research notes! I always wanted to start this after leaving Goldman Sachs, but somehow, I kept delaying it.</p>
+<p>Now, I&rsquo;ve finally figured out how to do it. I owe a big thanks to <a href="https://pascalmichaillat.org/" target="_blank">Prof. Pascal Michaillat</a> for inspiring me to use <em>Hugo</em> for this purpose.</p>
 <hr>
-<p>Now let me reflect on the intentions behind starting something like this, I mainly intend to cover the following items</p>
+<p>Here are my main intentions for starting this blog:</p>
 <ul>
-<li>To help us in understanding what is happening in global financial markets by writing a kind of weekly/monthly macro reviews where I would like to connect the developments in markets with economy.</li>
-<li>To discuss interesting research papers related to Indian Economy, Macroeconomy, Finance, Machine Learning and Markets. Or summarize existing good markets research</li>
-<li>My independent research</li>
+<li>To help us understand global financial markets by writing weekly/monthly macro reviews, connecting market developments with the economy.</li>
+<li>To discuss interesting research papers related to the Indian Economy, Macroeconomy, Finance, Machine Learning, and Markets, or summarize existing market research.</li>
+<li>To share my independent research.</li>
 </ul>
 <hr>
 <p>Let&rsquo;s get started!
@@ -230,6 +261,18 @@ Suraj Kumar</p>
             }
         });
     });
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 <script>

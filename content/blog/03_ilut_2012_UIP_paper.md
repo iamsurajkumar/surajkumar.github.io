@@ -15,8 +15,6 @@ summary: "Summary of Ilut (2012) - Ambiguity Aversion and the UIP Puzzle"
 <!-- Insert an Image from  -->
 ![](/images/ilut_2012_gemini.png)
 
-<!-- surajkumar.github.io/static/images/ilut_2012_gemini.png -->
-
 # Motivation
 
 1. Explain the UIP puzzle - why the high-interest rate currencies appreciate in comparison to low-interest rate currencies in the future. Also explains, 

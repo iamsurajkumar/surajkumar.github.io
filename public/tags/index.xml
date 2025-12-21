@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tags on Suraj Kumar</title><link>https://surajkumar.me/tags/</link><description>Recent content in Tags on Suraj Kumar</description><generator>Hugo -- 0.152.2</generator><language>en</language><atom:link href="https://surajkumar.me/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Suraj Kumar</title>
+    <link>https://surajkumar.me/tags/</link>
+    <description>Recent content in Tags on Suraj Kumar</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://surajkumar.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Financial Stability</title>
+      <link>https://surajkumar.me/tags/financial-stability/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://surajkumar.me/tags/financial-stability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Private Credit</title>
+      <link>https://surajkumar.me/tags/private-credit/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://surajkumar.me/tags/private-credit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dollar</title>
+      <link>https://surajkumar.me/tags/dollar/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://surajkumar.me/tags/dollar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Free Trade</title>
+      <link>https://surajkumar.me/tags/free-trade/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://surajkumar.me/tags/free-trade/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

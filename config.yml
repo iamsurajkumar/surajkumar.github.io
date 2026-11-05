@@ -84,8 +84,6 @@ params:
             #   url: market-research/
             # - name: Academic Research
             #   url: academic-research/
-            - name: Blog
-              url: blog/
             # - name: Courses
             #   url: courses/
             # - name: Data
@@ -98,8 +96,6 @@ params:
             #   url: archive/
             - name: GitHub
               url: https://github.com/iamsurajkumar
-            - name: Bio
-              url: about
             # - name: X
             #   url: https://x.com/the_suraj_kumar
 

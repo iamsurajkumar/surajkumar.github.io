@@ -37,5 +37,6 @@ Thank you for visiting my blog! Here, I share my thoughts on market research, ac
 #### Education
 
 * Ph.D. in Economics (in progress), Boston College, *Expected 2029*
+* M.A. in Economics, Delhi School of Economics, 2018
 * B.Tech in Civil Engineering, Indian Institute of Technology Delhi, 2010-2014
 * MA in Economics, Delhi School of Economics, 2016-2018.

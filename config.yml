@@ -44,7 +44,7 @@ menu:
 
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    description: "Suraj Kumar is a Ph.D. student in Economics at Boston College working on macroeconomics, international finance, and time-series econometrics."
     author: Suraj Kumar
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -70,14 +70,14 @@ params:
     profileMode:
           enabled: true
           title: Suraj Kumar
-          subtitle: "Hi there! I'm Suraj Kumar, a Ph.D. student in Economics at Boston College. With over 5 years of industry experience, I've worked as a Research Associate at Reserve Bank of India, an Economics Analyst at Goldman Sachs and a Data Analyst at American Express and Credit Suisse. I'm passionate about macroeconomic analysis, time-series econometrics, and financial research."
+          subtitle: "Hi there! I'm Suraj Kumar, a Ph.D. student in Economics at Boston College advised by Pablo Guerrón-Quintana. My research is in macroeconomics, international finance, and time-series econometrics, including foundation models for macroeconomic forecasting. Before the Ph.D., I worked as a Research Associate at CAFRAL, Reserve Bank of India, an Economics Research Analyst at Goldman Sachs, and in analytics roles at American Express and Credit Suisse."
           imageUrl: "suraj-profile-photo.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Suraj Kumar
           buttons:
             - name: CV
-              url: https://bc0-my.sharepoint.com/:b:/g/personal/kumasu_bc_edu/ETI3yBDfVwdMvKs4r9yA8ZwB9MI43DupSmP5ewJKED2OAw?e=2cMdWw
+              url: pdfs/Suraj_Kumar_CV.pdf
             # - name: Email
             #   url: mailto:suraj.kumar@bc.edu
             # - name: Market Research

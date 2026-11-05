@@ -5,6 +5,10 @@ draft: false
 weight: 1
 author: ["Pablo Guerrón-Quintana", "Suraj Kumar", "Zhihang Liang"]
 Summary: "Working paper. Benchmarks the Chronos-2 time-series foundation model against BVARs for macroeconomic forecasting, structural identification, and scenario analysis."
+cover:
+    image: "/images/papers/macroeconomics-foundation-models.png"
+    alt: "Distribution of RMSFE ratios, Chronos-2 vs large BVAR, pre- and post-COVID"
+    relative: false
 ---
 
 *Working paper (with Pablo Guerrón-Quintana and Zhihang Liang), July 2026*

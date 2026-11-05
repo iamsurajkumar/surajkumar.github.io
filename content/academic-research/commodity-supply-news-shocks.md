@@ -5,6 +5,10 @@ draft: false
 weight: 2
 author: ["Suraj Kumar"]
 Summary: "Working paper. Identifies U.S. agricultural supply news shocks from USDA crop yield forecast revisions and traces their effect on activity and inflation."
+cover:
+    image: "/images/papers/commodity-supply-news-shocks.png"
+    alt: "Orthogonalized USDA yield, harvested area and production revision instruments"
+    relative: false
 ---
 
 *Working paper, second draft, October 2026*

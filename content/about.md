@@ -5,38 +5,53 @@ draft: False
 ---
 
 ---
-## About the blog
-The website is structured as follows:
+## About Me
 
-1. **Market Research**: A collection of my previous market research notes from Goldman Sachs and commentary on market developments.
-2. **Academic Research**: My working papers and models are available here.
-3. **Code**: A link to my GitHub profile.
-4. **About**: The page you're currently on, describing the structure of the blog and providing details about me.
-5. **Blog**: Personal thoughts, paper reviews, and other topics that don't fit into the above categories.
+Hello! I'm an *Engineer-turned-Economist* and a Ph.D. student in Economics at Boston College, advised by Prof. Pablo Guerrón-Quintana. My research is in macroeconomics, international finance, and time-series econometrics, including the use of time-series foundation models for macroeconomic forecasting and structural analysis.
 
----
-## About Me,  *Professional Summary*
+After graduating from IIT Delhi in 2014 with a B.Tech in Civil Engineering, I developed a strong interest in economics, which led me to a Master's degree at the Delhi School of Economics. I began my career as a Model Validator at Credit Suisse, then built machine learning models at American Express, and moved to Goldman Sachs as an Economics Research Analyst covering India's macroeconomy. Before starting my Ph.D., I was a Research Associate at the Centre for Advanced Financial Research and Learning (CAFRAL), Reserve Bank of India.
 
-Hello! I'm an *Engineer-turned-Economist* with a passion for macroeconomics. After graduating from IIT Delhi in 2014 with a B.Tech in Civil Engineering, I developed a strong interest in economics, which led me to pursue a Master's degree at the Delhi School of Economics.
-
-I began my career as a Model Validator at Credit Suisse, validating macro models predicting revenue in the EMEA region. Later, at American Express, I built machine learning models to predict customer credit card spending. My desire to focus on macroeconomics brought me to Goldman Sachs as an Economics Analyst, where I covered India's macroeconomic developments, tracked key economic indicators, wrote thematic reports, and addressed client queries.
-
-In September 2022, I joined the Centre for Advanced Financial Research and Learning (CAFRAL) at the Reserve Bank of India as a Research Associate. Currently, I'm pursuing a Ph.D. in Economics at Boston College, aiming to deepen my understanding and contribute to the field.
-
-Thank you for visiting my blog! Here, I share my thoughts on market research, academic pursuits, and more. Feel free to explore and connect with me.
+[CV (PDF)](/pdfs/Suraj_Kumar_CV.pdf)
 
 ---
-#### Work Experience
+#### Research
 
-* Research Associate, CAFRAL, *Reserve Bank of India* - 2022 - 2024
-* Economics Analyst, *Global Investment Research, Goldman Sachs* - 2020-2022
-* Business Analyst, *American Express* - 2019-2020
-* Model Validator, *Credit Suisse* - 2018-2019
+**Working Papers**
+* [Macroeconomics with Foundation Models: Forecasting, Identification, and Structural Scenario Analysis](/academic-research/macroeconomics-foundation-models/) (with Pablo Guerrón-Quintana and Zhihang Liang)
+* [Commodity Supply News Shocks: Evidence from Scheduled Announcements](/academic-research/commodity-supply-news-shocks/)
+
+**Work in Progress**
+* [Lost in Transmission: Does BOJ Policy Reach US Financial Conditions?](/academic-research/lost-in-transmission/)
+
+---
+#### Presentations
+
+* RBA Continuing Education in Macroeconometrics Workshop, Sydney - November 2026 (upcoming)
+
+---
+#### Teaching
+
+* Teaching Assistant, Econometric Methods Stata Lab (EC2228), *Boston College* - Fall 2026
+
+---
+#### Experience
+
+* Research Associate, CAFRAL, *Reserve Bank of India* - 2022-2024
+* Economics Research Analyst, *Global Investment Research, Goldman Sachs* - 2020-2022
+* Analyst, Machine Learning Model Developer, *American Express* - 2019-2020
+* Model Validation Analyst, *Credit Suisse* - 2018
 
 ---
 #### Education
 
 * Ph.D. in Economics (in progress), Boston College, *Expected 2029*
 * M.A. in Economics, Delhi School of Economics, 2018
-* B.Tech in Civil Engineering, Indian Institute of Technology Delhi, 2010-2014
-* MA in Economics, Delhi School of Economics, 2016-2018.
+* B.Tech in Civil Engineering, Indian Institute of Technology Delhi, 2014
+
+---
+## About the Website
+
+1. **Academic Research**: My working papers and work in progress.
+2. **Market Research**: My market research notes from Goldman Sachs and commentary on market developments.
+3. **Blog**: Personal thoughts, paper reviews, and other topics.
+4. **Codes**: A link to my GitHub profile.

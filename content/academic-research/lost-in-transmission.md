@@ -5,6 +5,10 @@ draft: false
 weight: 3
 author: ["Suraj Kumar"]
 Summary: "Work in progress. Asks whether Bank of Japan monetary policy shocks transmit to US financial conditions, before and after the December 2022 yield-curve-control change."
+cover:
+    image: "/images/papers/lost-in-transmission.png"
+    alt: "Largest foreign holders of US long-term bonds, June 2025"
+    relative: false
 ---
 
 *Work in progress, first draft, October 2026*

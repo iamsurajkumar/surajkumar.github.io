@@ -78,6 +78,8 @@ params:
           buttons:
             - name: CV
               url: pdfs/Suraj_Kumar_CV.pdf
+            - name: Academic Research
+              url: academic-research/
             # - name: Email
             #   url: mailto:suraj.kumar@bc.edu
             # - name: Market Research
